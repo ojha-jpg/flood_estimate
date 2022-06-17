@@ -1,3 +1,6 @@
+# files contained data from DHM
+# import files in a folder, reads 1st line so as to find station namea and writes filename and station name to a csv file
+
 # Import Module
 import os
 import re
